@@ -6,11 +6,23 @@ Sou estudante de Desenvolvimento Full Stack e apaixonado por tecnologia, colabor
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roberto-mazor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roberto-mazor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
+   <img 
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=roberto-mazor&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br"
+    />
+    
+   <img 
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes&theme=cobalt&locale=pt-br"
+    />
+  
 ###
 
 <div align="left">
