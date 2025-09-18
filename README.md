@@ -6,18 +6,20 @@
 
 ---
 
-<h3 align="center">Estatísticas</h3>
+<h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
   <img 
     alt="Github Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=roberto-mazor&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br"
+    height="180"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=roberto-mazor&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
-  <img
-    alt="Linguagens mais usadas"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-mazor&layout=compact&theme=cobalt&locale=pt-br"
+
+  <img 
+    alt="Top Languages"
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-mazor&theme=cobalt&layout=compact&locale=pt-br&cache_seconds=86400"
   />
 </div>
 
