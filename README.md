@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Roberto e sou um desenvolvedor Full Stack em formação, de São Paulo, Brasil.</h2>
+<h2 align="left">Olá 👋! Meu nome é Roberto Mazor e sou um desenvolvedor Full Stack em formação, de São Paulo, Brasil.</h2>
 
 <p align="left">
   Sou estudante de Desenvolvimento Full Stack e apaixonado por tecnologia, colaboração e aprendizado contínuo. Aqui no GitHub, compartilho meus projetos, desafios e descobertas enquanto evoluo como desenvolvedor. Acredito que o conhecimento cresce quando é compartilhado — então, sinta-se à vontade para explorar, contribuir ou trocar ideias!
