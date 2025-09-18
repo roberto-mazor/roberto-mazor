@@ -7,7 +7,7 @@
 ---
 
 
-<h2 align="center">📊 Estatísticas</h2>
+<h3 align="center">📊 Estatísticas</h3>
 
 <div align="center">
   <img 
